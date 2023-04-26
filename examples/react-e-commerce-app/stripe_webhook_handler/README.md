@@ -1,1 +1,0 @@
-> **Replace file name index_example.js to index.js**

@@ -1,7 +1,0 @@
-{
-  "name": "altogic-auth-ionic-deneme",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
